@@ -1,6 +1,13 @@
 # Statistics Project 📊
 
-This project is a comprehensive toolkit for statistical analysis and data exploration, developed by Umit Ozteker. It provides a wide range of tools and scripts for performing statistical computations, creating visualizations, and processing data. The project is an excellent resource for educational purposes, researchers, and anyone looking to apply statistical methods to datasets. 🧑‍🔬
+![GitHub repo size](https://img.shields.io/github/repo-size/UmitOzteker/Statictics-Project)
+![GitHub issues](https://img.shields.io/github/issues/UmitOzteker/Statictics-Project)
+![GitHub last commit](https://img.shields.io/github/last-commit/UmitOzteker/Statictics-Project)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/y/UmitOzteker/Statictics-Project)
+![GitHub commits since latest release](https://img.shields.io/github/commits-since/UmitOzteker/Statictics-Project/latest)
+![License](https://img.shields.io/github/license/UmitOzteker/Statictics-Project)
+
+This project is a comprehensive toolkit for statistical analysis and data exploration, developed by Umit Ozteker. It provides a wide range of tools and scripts for performing statistical computations,[...]
 
 
 ## Features ✨
@@ -37,7 +44,7 @@ To get started with the project, follow these simple steps:
     ```bash
     pip install -r requirements.txt
     ```
-    This will install **Python 3.x** and libraries like **numpy**, **pandas**, **matplotlib**, **scipy**, **seaborn**, and **plotly**. If you plan to use the Jupyter notebooks, make sure **jupyter** is also installed.
+    This will install **Python 3.x** and libraries like **numpy**, **pandas**, **matplotlib**, **scipy**, **seaborn**, and **plotly**. If you plan to use the Jupyter notebooks, make sure **jupyter** i[...]
 
 -----
 
