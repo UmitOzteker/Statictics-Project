@@ -4,7 +4,6 @@
 ![GitHub issues](https://img.shields.io/github/issues/UmitOzteker/Statictics-Project)
 ![GitHub last commit](https://img.shields.io/github/last-commit/UmitOzteker/Statictics-Project)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/UmitOzteker/Statictics-Project)
-![GitHub commits since latest release](https://img.shields.io/github/commits-since/UmitOzteker/Statictics-Project/latest)
 ![License](https://img.shields.io/github/license/UmitOzteker/Statictics-Project)
 
 This project is a comprehensive toolkit for statistical analysis and data exploration, developed by Umit Ozteker. It provides a wide range of tools and scripts for performing statistical computations,[...]
